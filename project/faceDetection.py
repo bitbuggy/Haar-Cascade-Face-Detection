@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import cv2
 
 arqCasc = 'haarcascade_frontalface_default.xml'
