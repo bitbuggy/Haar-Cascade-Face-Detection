@@ -20,7 +20,7 @@ An 'Hi There' should appear on screen and then voila you face detection script i
 Enjoy and create new things with this script.  
 
 
-Portugues
+Português
 ---
 
 Para executar este programa você precisa de uma camera e um computador.
