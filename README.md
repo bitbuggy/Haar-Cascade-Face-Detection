@@ -4,7 +4,7 @@ Haar Cascade Face Detection
 English
 ---
 
-Running this project you need a camera and a computer.
+To run this project you need a camera and a computer.
 
 On project directory you will find all the files that you need to detect faces in somewhere.
 To run this script you just need go to the directory where you seve this project then write:
