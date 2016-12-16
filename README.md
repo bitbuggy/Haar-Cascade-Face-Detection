@@ -13,8 +13,8 @@ To run this script you just need go to the directory where you seve this project
 'directory where you save the project'$ ./faceDetection.py  
 chmod 755 --> permission mode on Unix like systems   
 
-An 'Hi There' should appear on screen and then voila you face detection script is working.
-Enjoy and create new things with this script.  
+An 'Hi There' should appear on screen and then voila your face detection script is working.
+Enjoy :).  
 
 
 Português
@@ -31,5 +31,5 @@ para executar o programa vá ao diretório onde você salvou o projeto e digite:
 chmod 755 --> permissão de execução em ambientes Unix  
 
 Um 'hi there' deve aparecer na sua tela então voila seu script esta funcionando.
-Aproveite e crie novos scripts apartir deste. 
+Aproveite :). 
  
